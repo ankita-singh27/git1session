@@ -1,2 +1,3 @@
 # git1session
-first class on github
+we are learning first program in git hub.
+today is day1 class.
